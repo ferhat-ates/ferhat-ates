@@ -34,10 +34,4 @@ I specialize in **Shopify Liquid, HTML, CSS, JavaScript, React, and Theme Custom
 ### 🌐 Connect with Me
 📍 Istanbul, Turkey  
 💼 [LinkedIn](https://linkedin.com/in/ferhat-ate%C5%9F-6400492a7)  
-📧 ferhatates.dev@gmail.com *(örnek e-posta, istersen değiştiririz)*  
-💻 [Portfolio / Website](#) *(hazır olduğunda eklenir)*
-
----
-
-> “Code is not just lines — it’s the bridge between ideas and real-world experiences.”  
-> — Ferhat Ateş
+📧 fer.ates41@gmail.com
