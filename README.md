@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ferhat Ateş
+#Ferhat Ateş
 
 🚀 **Shopify Liquid Developer | Frontend Developer**
 
