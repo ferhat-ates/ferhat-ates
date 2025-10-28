@@ -37,6 +37,3 @@ I specialize in **Shopify Liquid, HTML, CSS, JavaScript, React, and Theme Custom
 📧 fer.ates41@gmail.com
 
 ---
-
-> “Code is not just lines — it’s the bridge between ideas and real-world experiences.”  
-> — Ferhat Ateş
